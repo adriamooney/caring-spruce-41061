@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'Increase sales,'
     content: |
       Data driven services for the cannabis industry
     actions:
