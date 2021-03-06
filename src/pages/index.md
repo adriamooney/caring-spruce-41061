@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    title: Help Your customers Get the weed they want
+    title: Help Your customers get the weed they want
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
