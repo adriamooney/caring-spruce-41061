@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Data driven services for the cannabis industry
     actions:
       - label: Learn More
         url: /features
