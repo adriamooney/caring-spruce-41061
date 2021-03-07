@@ -45,7 +45,7 @@ sections:
         label: Email
         default_value: Email
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: Message
