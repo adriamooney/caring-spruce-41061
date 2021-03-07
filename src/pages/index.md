@@ -44,8 +44,6 @@ sections:
       - title: For Growers
         subtitle: get growin'
         title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
