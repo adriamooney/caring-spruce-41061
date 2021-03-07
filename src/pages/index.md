@@ -86,10 +86,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: none
   - type: grid_section
     title: Cards Grid Section
     subtitle: Our Process
