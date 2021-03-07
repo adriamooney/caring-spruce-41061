@@ -137,7 +137,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: lorem-ipsum
+      - title: 'Intelligent Inventory Forecasting '
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
