@@ -25,7 +25,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Interested in free tech services? [**Learn More**](/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
