@@ -196,10 +196,15 @@ sections:
     grid_items:
       - title: Private Licensed Network
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Join our direct-to-store network and connect with licensed vendors.
+          This reduces the cost of bringing product to market while helping
+          optimize production efforts and profits. Supporting the local cannabis
+          industry will also support your local community.
+
+
+          There is no cost to join but a valid producer or vendor license is
+          required. 
         content_align: left
         actions:
           - label: Learn More
