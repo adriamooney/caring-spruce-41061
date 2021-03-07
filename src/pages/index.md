@@ -68,7 +68,7 @@ sections:
     align: center
     background_color: secondary
     has_border: false
-  - title: lorem-ipsum
+  - title: Tools for a Blossoming Industry
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
