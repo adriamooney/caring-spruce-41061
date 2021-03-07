@@ -161,8 +161,10 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    content: |
-      We'd love to chat for a few minutes and find out how we can help
+    content: >
+      In a competitive and ever evolving industry, you need every edge you can
+      get.  We want to help you leverage data and technology to grow your
+      business.
     actions:
       - label: Let's Talk
         url: /features
