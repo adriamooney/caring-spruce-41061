@@ -33,7 +33,7 @@ sections:
       - image: images/pexels-terrance-barksdale-6486358 (1).jpg
         image_alt: Sanity logo
         image_align: center
-      - image: images/pexels-binoid-cbd-4721099.jpg
+      - image: images/pexels-nora-topicals-7038208.jpg
         image_alt: DatoCMS logo
         image_align: center
       - image: images/pexels-eric-bvd-5581840.jpg
