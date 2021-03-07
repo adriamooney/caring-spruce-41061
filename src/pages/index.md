@@ -243,10 +243,15 @@ sections:
         image_has_padding: true
       - title: Section Item 3
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          While city and county permitting rules make location choice difficult
+          enough on its own, you also need to know if the area is appropriate
+          for your customers and the level of competition.
+
+
+          With our proprietary map, you can examine the density of dispensaries
+          to the population, education, household earnings and age. Save hours
+          of research by seeing the opportunities in the market.
         content_align: left
         actions:
           - label: Learn More
