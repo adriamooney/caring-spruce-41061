@@ -92,7 +92,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Cards Grid Section
-    subtitle: Grid Section Example
+    subtitle: Our Process
     grid_items:
       - title: Section Item 1
         title_align: left
