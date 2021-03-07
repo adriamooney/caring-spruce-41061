@@ -63,7 +63,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          ### From Sprout to Store, Bhanga is here to help.
+          ###
       - title: For Dispensaries
         subtitle: lorem-ipsum
         title_align: left
