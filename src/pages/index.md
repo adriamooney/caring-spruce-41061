@@ -138,7 +138,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: 'Intelligent Inventory Forecasting '
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Products sell at different cadences and our best tool is eye-ing it.
+          Or it was in 1990. 
         content: >-
           ## Lorem ipsum
 
