@@ -241,7 +241,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Opening a dispensary?
         title_align: left
         content: >
           While city and county permitting rules make location choice difficult
