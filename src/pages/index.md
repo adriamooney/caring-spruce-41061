@@ -21,16 +21,7 @@ sections:
     title: Give your customers exactly what they want
   - title: Tools for a Blossoming Industry
     subtitle: Get the most of out of your inventory
-    actions:
-      - label: For Stores
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     grid_items:
       - title: For Growers
         title_align: left
