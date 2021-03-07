@@ -191,7 +191,7 @@ sections:
     has_border: false
     subtitle: A sprinkle of trichromes and splash of artifical intelligence.
   - type: grid_section
-    title: Cards Grid Section
+    title: Connecting Growers and Stores
     subtitle: Our Process
     grid_items:
       - title: Section Item 1
