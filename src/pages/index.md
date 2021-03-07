@@ -30,7 +30,7 @@ sections:
       - image: images/pexels-terrance-barksdale-6462279.jpg
         image_alt: Gatsby logo
         image_align: center
-      - image: images/pexels-terrance-barksdale-6486358 (1).jpg
+      - image: images/pexels-sharon-mccutcheon-3676962.jpg
         image_alt: Sanity logo
         image_align: center
       - image: images/pexels-nora-topicals-7038208.jpg
