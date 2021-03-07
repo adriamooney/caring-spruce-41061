@@ -25,7 +25,7 @@ sections:
       Bhanga Tech empowers dispensaries and growers to maximize inventory
       potential
     features:
-      - title: Effortlessly recommend the best
+      - title: Make Better Recommendations
         content: >
           Our team of cannabis loving data scientists can help you make
           automatic recommendations to your customers, assist with forecasting,
