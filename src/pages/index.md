@@ -39,7 +39,6 @@ sections:
     type: grid_section
   - type: features_section
     title: Tools for a Blossoming Industry
-    subtitle: Get the most of out of your inventory
     features:
       - title: Make Better Recommendations
         content: >
