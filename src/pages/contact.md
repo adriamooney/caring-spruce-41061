@@ -31,7 +31,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_action: Contact
     form_fields:
       - input_type: text
         name: lorem-ipsum
