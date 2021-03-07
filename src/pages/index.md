@@ -64,7 +64,9 @@ sections:
         type: grid_item
         subtitle: 'From Sprout to Store, Bhanga is here to help.'
       - title: For Dispensaries
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Bhanga helps improve customers satisfaction and maximize inventory
+          value.
         title_align: left
         content: >-
           ## Lorem ipsum
