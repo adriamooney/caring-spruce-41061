@@ -197,14 +197,17 @@ sections:
       - title: Private Network
         title_align: left
         content: >
-          Join our direct-to-store network and connect with licensed vendors.
-          This reduces the cost of bringing product to market while helping
-          optimize production efforts and profits. Supporting the local cannabis
-          industry will also support your local community.
+          Join our direct-to-store network and ***connect with licensed
+          vendors***. Reduce the cost of bringing product to market while
+          helping optimize production efforts and profits. 
+
+
+          ### Supporting the local cannabis industry will also support your
+          local community.
 
 
           There is no cost to join but a valid producer or vendor license is
-          required. 
+          required.
         content_align: left
         actions:
           - label: Sign up for private access
