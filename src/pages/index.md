@@ -93,9 +93,11 @@ sections:
           huge gaps in meeting customer expectations.***
 
 
-          Instead, leverage your customers' purchasing habits to make
-          recommendations. No customer should be left wondering if their
-          purchase will meet their expectations. 
+          Leverage your customers' purchasing habits to make recommendations. 
+
+
+          #### No customer should be left wondering if their purchase will meet
+          their expectations.
 
 
           Bhanga provides immediate recommendations to help your budistas answer
