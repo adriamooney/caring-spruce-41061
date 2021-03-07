@@ -221,10 +221,12 @@ sections:
         image_has_padding: true
       - title: Free Jobs Board
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Whether an experienced trimmer, machine operator or budista is what
+          you need, access our Cannabis-only jobs board. 
+
+
+          Free to post listings. Free to apply. No fees or strings. 
         content_align: left
         actions:
           - label: Learn More
