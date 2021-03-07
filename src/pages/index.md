@@ -207,7 +207,7 @@ sections:
           required. 
         content_align: left
         actions:
-          - label: Learn More
+          - label: R
             url: /style-guide
             style: link
             has_icon: true
