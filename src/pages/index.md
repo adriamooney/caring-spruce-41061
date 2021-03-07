@@ -194,7 +194,7 @@ sections:
     title: Connecting Growers and Stores
     subtitle: 'Beyond technology, Bhanga helps connect the local community'
     grid_items:
-      - title: Section Item 1
+      - title: Private
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
