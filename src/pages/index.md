@@ -138,9 +138,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: 'Intelligent Inventory Forecasting '
-        subtitle: >-
-          Products sell at different cadences and our best tool is eye-ing it.
-          Or it was in 1990. 
+        subtitle: Stop "eyeing" it. It's not 1890.
         content: >
           Products sell at different cadences and our best tool is eye-ing it.
           Or it was in 1890.
