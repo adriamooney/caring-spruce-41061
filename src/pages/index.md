@@ -30,7 +30,7 @@ sections:
       - image: images/pexels-terrance-barksdale-6462279.jpg
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/pexels-terrance-barksdale-6486358 (1).jpg
         image_alt: Sanity logo
         image_align: center
       - image: images/pexels-binoid-cbd-4721099.jpg
