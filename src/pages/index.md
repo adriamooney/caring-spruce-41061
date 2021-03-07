@@ -20,7 +20,7 @@ sections:
     background_color: primary
     title: Give your customers exactly what they want
   - type: features_section
-    title: A competitive edge in the blossoming cannabis industry
+    title: Tools for a Blossoming Industry
     subtitle: Get the most of out of your inventory
     features:
       - title: Make Better Recommendations
