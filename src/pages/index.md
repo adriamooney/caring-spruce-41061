@@ -20,7 +20,7 @@ sections:
     background_color: primary
     title: Give your customers exactly what they want
   - title: Tools for a Blossoming Industry
-    subtitle: lorem-ipsum
+    subtitle: Get the most of out of your inventory
     actions: []
     grid_items: []
     grid_cols: three
