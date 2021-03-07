@@ -21,9 +21,7 @@ sections:
     title: Give your customers exactly what they want
   - type: features_section
     title: A competitive edge in the blossoming cannabis industry
-    subtitle: >-
-      Bhanga Tech empowers dispensaries and growers to maximize inventory
-      potential
+    subtitle: Get the most of out of your inventory
     features:
       - title: Make Better Recommendations
         content: >
