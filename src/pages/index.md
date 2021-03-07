@@ -51,10 +51,10 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Effortlessly recommend the best
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Our team of cannabis loving data scientists can help you make
+          automatic recommendations to your customers, assist with forecasting,
+          guide purchase decisions and more. 
         actions:
           - label: Learn More
             url: /style-guide
