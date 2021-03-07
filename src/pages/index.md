@@ -194,7 +194,7 @@ sections:
     title: Connecting Growers and Stores
     subtitle: 'Beyond technology, Bhanga helps connect the local community'
     grid_items:
-      - title: Private Licensed Network
+      - title: Private Network
         title_align: left
         content: >
           Join our direct-to-store network and connect with licensed vendors.
