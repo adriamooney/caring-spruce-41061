@@ -27,9 +27,16 @@ sections:
     features:
       - title: Make Better Recommendations
         content: >
-          Our team of cannabis loving data scientists can help you make
-          automatic recommendations to your customers, assist with forecasting,
-          guide purchase decisions and more. 
+          Most recommendations are made based on the budista's experience with
+          the product. We speak from personal experience: this often leaves huge
+          gaps in meeting customer expecations.
+
+
+          Instead, leaverage your customers' purchasing habits to make
+          recommendations. No customer should be left wondering if their
+          purchase will meet their expectations. Bhanga can provide immediate
+          recommendations to help your budistas answer questions and find the
+          right product for any customer's need.
         actions:
           - label: Learn More
             url: /style-guide
