@@ -141,7 +141,7 @@ sections:
         subtitle: Stop "eyeing" it. It's not 1890.
         content: >
           Products sell at different cadences. Understanding this is the
-          difference between a profit and a loss. 
+          difference between a profit and a loss.
 
 
           By analyzing purchase behavior on a product level, you will have a
@@ -158,7 +158,7 @@ sections:
           rely on.
 
 
-          ##### A leaner inventory frees up capital -- potentially eliminating
+          #### A leaner inventory frees up capital -- potentially eliminating
           thousands of dollars in idle product.
 
 
