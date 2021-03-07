@@ -140,8 +140,8 @@ sections:
       - title: 'Intelligent Inventory Forecasting '
         subtitle: Stop "eyeing" it. It's not 1890.
         content: >
-          Products sell at different cadences and our best tool is eye-ing it.
-          Or it was in 1890.
+          Products sell at different cadences. Understanding this is the
+          difference between a profit and a loss. 
 
 
           By analyzing purchase behavior on a product level, you will have a
@@ -150,18 +150,19 @@ sections:
           customer experience.***
 
 
-          No engineers or special skills required. 
+          No engineers or special skills required.
 
 
           Upload your POS records and our software makes a comprehensive
           analysis of all product purchases, providing concrete guidance you can
-          rely on. 
+          rely on.
 
 
-          ### A leaner inventory frees up capital -- potentially eliminating
+          ##### A leaner inventory frees up capital -- potentially eliminating
           thousands of dollars in idle product.
 
-           With Bhagda, save hours and make better purchases.
+
+          With Bhagda, save hours and make better purchases.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
