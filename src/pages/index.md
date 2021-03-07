@@ -279,10 +279,7 @@ sections:
   - type: cta_section
     content: >
       #### In a competitive and ever evolving industry, you need every edge you
-      can get.  
-
-
-      ###### We want to help you leverage data and technology to grow your
+      can get.  We want to help you leverage data and technology to grow your
       business.
     actions:
       - label: Let's Talk
