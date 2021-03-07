@@ -31,7 +31,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: 'For '
+      - label: For Stores
         url: '#'
         style: link
         has_icon: false
