@@ -11,8 +11,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
-  - subtitle: lorem-ipsum
-    title_align: left
+  - title_align: left
     content_align: left
     form_position: bottom
     form_width: fifty
