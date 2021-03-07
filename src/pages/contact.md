@@ -52,7 +52,7 @@ sections:
         label: lorem-ipsum
         default_value: Say it
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Send It
     align_vert: top
