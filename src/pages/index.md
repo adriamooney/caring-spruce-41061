@@ -46,7 +46,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: From Sprout to Store
+          - label: From Sprout to Store.
             url: '#'
             style: link
             has_icon: false
