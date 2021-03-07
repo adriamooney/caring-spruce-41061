@@ -207,7 +207,7 @@ sections:
           required. 
         content_align: left
         actions:
-          - label: Register
+          - label: Sign up for private access
             url: /style-guide
             style: link
             has_icon: true
