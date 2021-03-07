@@ -141,17 +141,29 @@ sections:
         subtitle: >-
           Products sell at different cadences and our best tool is eye-ing it.
           Or it was in 1990. 
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Products sell at different cadences and our best tool is eye-ing it.
+          Or it was in 1890.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          By analyzing purchase behavior on a product level, you will have a
+          better control on inventory expenditures. ***This makes room for
+          trying new products and freeing up capital without risking the
+          customer experience.***
 
 
-          - Lorem ipsum
+          No engineers or special skills required. 
 
-          - dolor sit amet
+
+          Upload your POS records and our software makes a comprehensive
+          analysis of all product purchases, providing concrete guidance you can
+          rely on. 
+
+
+          ### A leaner inventory frees up capital -- potentially eliminating
+          thousands of dollars in idle product.
+
+           With Bhagda, save hours and make better purchases.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
