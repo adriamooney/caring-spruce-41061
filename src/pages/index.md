@@ -131,6 +131,7 @@ sections:
     align: center
     background_color: secondary
     has_border: false
+    subtitle: A sprinkle of trich
   - type: grid_section
     title: Cards Grid Section
     subtitle: Our Process
