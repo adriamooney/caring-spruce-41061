@@ -20,7 +20,7 @@ sections:
     background_color: primary
     title: Give your customers exactly what they want
   - type: features_section
-    title: What We Do
+    title: Tools compete in the blossoming cannabis industry
     subtitle: >-
       Bhanga Tech empowers dispensaries and growers to maximize inventory
       potential
