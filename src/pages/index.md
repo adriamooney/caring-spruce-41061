@@ -19,35 +19,6 @@ sections:
     padding_bottom: large
     background_color: primary
     title: Give your customers exactly what they want
-  - type: grid_section
-    title: Maximize your inventory's potential
-    align: center
-    grid_items:
-      - image: images/pexels-terrance-barksdale-6692278.jpg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/pexels-elsa-olofsson-5079418.jpg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/pexels-terrance-barksdale-6462279.jpg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/pexels-sharon-mccutcheon-3676962.jpg
-        image_alt: Sanity logo
-        image_align: center
-      - image: images/pexels-nora-topicals-7038208.jpg
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/pexels-eric-bvd-5581840.jpg
-        image_alt: Next.js logo
-        image_align: center
-      - image_alt: Gridsome logo
-        image_align: center
-      - image_alt: Git logo
-        image_align: center
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: What We Do
     subtitle: Our Services
