@@ -192,7 +192,7 @@ sections:
     subtitle: A sprinkle of trichromes and splash of artifical intelligence.
   - type: grid_section
     title: Connecting Growers and Stores
-    subtitle: Our Process
+    subtitle: 'Beyond technology, Bhanga helps connect the local community'
     grid_items:
       - title: Section Item 1
         title_align: left
