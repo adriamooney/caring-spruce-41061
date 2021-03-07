@@ -21,7 +21,9 @@ sections:
     title: Give your customers exactly what they want
   - type: features_section
     title: What We Do
-    subtitle: Our Services
+    subtitle: >-
+      Bhanga Tech empowers dispensaries and growers to maximize inventory
+      potential
     features:
       - title: Effortlessly recommend the best
         content: >
