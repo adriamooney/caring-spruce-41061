@@ -42,7 +42,6 @@ sections:
         type: action
     grid_items:
       - title: For Growers
-        subtitle: get growin'
         title_align: left
         content_align: left
         actions:
