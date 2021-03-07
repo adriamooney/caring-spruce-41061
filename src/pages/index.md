@@ -207,7 +207,7 @@ sections:
           required. 
         content_align: left
         actions:
-          - label: R
+          - label: Register
             url: /style-guide
             style: link
             has_icon: true
