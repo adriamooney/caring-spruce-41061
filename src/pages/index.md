@@ -33,7 +33,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/pexels-binoid-cbd-4721099.jpg
         image_alt: DatoCMS logo
         image_align: center
       - image: images/pexels-eric-bvd-5581840.jpg
