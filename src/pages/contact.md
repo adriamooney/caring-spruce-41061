@@ -50,7 +50,7 @@ sections:
       - input_type: textarea
         name: Message
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: Say It
         options: []
         is_required: false
         type: form_field
