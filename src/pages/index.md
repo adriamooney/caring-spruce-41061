@@ -131,7 +131,7 @@ sections:
     align: center
     background_color: secondary
     has_border: false
-    subtitle: A sprinkle of trichromes and splash of artifical intelligence there.
+    subtitle: A sprinkle of trichromes and splash of artifical intelligence.
   - type: grid_section
     title: Cards Grid Section
     subtitle: Our Process
