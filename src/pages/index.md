@@ -171,7 +171,6 @@ sections:
         align: left
         type: feature
       - title: Optimized Delivery Services
-        subtitle: lorem-ipsum
         content: >
           Even before COVID, customers were migrating to delivery services.
           Using best-in-industry routing practices, we can automatically
