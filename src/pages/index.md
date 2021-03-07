@@ -18,7 +18,7 @@ sections:
     background_color: primary
     title: Give your customers exactly what they want
   - type: grid_section
-    title: Image Grid
+    title: Get to the good stuff!
     align: center
     grid_items:
       - image: images/pexels-terrance-barksdale-6692278.jpg
