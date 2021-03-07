@@ -112,10 +112,20 @@ sections:
         media_position: right
         media_width: fifty
       - title: 'Enabled Loyalty Program '
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Loyalty programs focused on 10% off after 10 or more purchases is old
+          school. ***And it does not generate true loyalty.***
+
+
+          Enhance your loyalty program with automated recommendations to
+          customers for *discounts on products they want*. 
+
+
+          Use excess inventory to target customers who want that deal and create
+          a personal connection with your store. 
+
+
+          Understanding your customer is true loyalty. Do it effortlessly.
         actions:
           - label: Learn More
             url: /style-guide
