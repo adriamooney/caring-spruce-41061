@@ -39,8 +39,7 @@ sections:
       - image: images/pexels-eric-bvd-5581840.jpg
         image_alt: Next.js logo
         image_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
+      - image_alt: Gridsome logo
         image_align: center
       - image: images/logo-8.svg
         image_alt: Git logo
