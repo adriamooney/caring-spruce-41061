@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: primary
     title: Give your customers exactly what they want
-  - title: lorem-ipsum
+  - title: Tools for a Blossoming Industry
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
