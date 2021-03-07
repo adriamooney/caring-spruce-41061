@@ -176,20 +176,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: cta_section
-    content: >
-      We'd love to dive into your business process with you to discover how we
-      can help you continue to delight your customers with data driven tools,
-      strategies, and products.  
-    actions:
-      - label: Let's Talk
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
