@@ -28,15 +28,17 @@ sections:
       - title: Make Better Recommendations
         content: >
           Most recommendations are made based on the budista's experience with
-          the product. We speak from personal experience: this often leaves huge
-          gaps in meeting customer expecations.
+          the product. We speak from personal experience: ***this often leaves
+          huge gaps in meeting customer expectations.***
 
 
-          Instead, leaverage your customers' purchasing habits to make
+          Instead, leverage your customers' purchasing habits to make
           recommendations. No customer should be left wondering if their
-          purchase will meet their expectations. Bhanga can provide immediate
-          recommendations to help your budistas answer questions and find the
-          right product for any customer's need.
+          purchase will meet their expectations. 
+
+
+          Bhanga provides immediate recommendations to help your budistas answer
+          questions and find the right product for any customer's need.
         actions:
           - label: Learn More
             url: /style-guide
