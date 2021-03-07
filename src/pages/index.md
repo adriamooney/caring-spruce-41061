@@ -199,10 +199,10 @@ sections:
         content: >
           Join our direct-to-store network and ***connect with licensed
           vendors***. Reduce the cost of bringing product to market while
-          helping optimize production efforts and profits. 
+          helping optimize production efforts and profits.
 
 
-          ### Supporting the local cannabis industry will also support your
+          ##### Supporting the local cannabis industry will also support your
           local community.
 
 
