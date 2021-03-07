@@ -20,7 +20,7 @@ sections:
     background_color: primary
     title: Give your customers exactly what they want
   - type: grid_section
-    title: Tools Needed for Cannabis is Big Ag.
+    title: Maximize your inventory's potential
     align: center
     grid_items:
       - image: images/pexels-terrance-barksdale-6692278.jpg
