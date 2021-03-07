@@ -22,7 +22,7 @@ sections:
   - title: Tools for a Blossoming Industry
     subtitle: Get the most of out of your inventory
     actions:
-      - label: lorem-ipsum
+      - label: For Growers
         url: '#'
         style: link
         has_icon: false
