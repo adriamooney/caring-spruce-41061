@@ -48,7 +48,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: What We Do
-    subtitle: Features Section Example
+    subtitle: Our Services
     features:
       - title: Effortlessly recommend the best
         content: >
