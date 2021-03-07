@@ -84,7 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: features_section
-    title: 'Bhanga Tech '
+    title: Bhanga
     features:
       - title: Make Better Recommendations
         content: >
