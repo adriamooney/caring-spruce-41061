@@ -36,7 +36,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Message
-        label: lorem-ipsum
+        label: Message
         default_value: Say it
         options: []
         is_required: true
