@@ -45,7 +45,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'From Sprout to Store, Bhanga is here to help.'
-        image: images/grow_the_right_cannabis.png
+        image: images/grow_the_right_cannabis1.png
       - title: For Dispensaries
         subtitle: >-
           Bhanga helps improve customers satisfaction and maximize inventory
