@@ -235,7 +235,6 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/noun_cannabis shop_2091838.png
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
