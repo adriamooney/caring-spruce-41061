@@ -18,6 +18,7 @@ sections:
     padding_bottom: large
     background_color: primary
     title: Give your customers exactly what they want
+    image: images/panoramic-eggplant.png
   - title: Tools for a Blossoming Industry
     subtitle: Get the most of out of your inventory
     actions: []
