@@ -139,39 +139,6 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: 'Intelligent Inventory Forecasting '
-        subtitle: Stop "eyeing" it. It's not 1890.
-        content: >
-          Products sell at different cadences. Understanding this is the
-          difference between a profit and a loss.
-
-
-          By analyzing purchase behavior on a product level, you will have a
-          better control on inventory expenditures. ***This makes room for
-          trying new products and freeing up capital without risking the
-          customer experience.***
-
-
-          No engineers or special skills required.
-
-
-          Upload your POS records and our software makes a comprehensive
-          analysis of all product purchases, providing concrete guidance you can
-          rely on.
-
-
-          #### A leaner inventory frees up capital -- potentially eliminating
-          thousands of dollars in idle product.
-
-
-          With Bhagda, save hours and make better purchases.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/pexels-asa-dugger-1666073.jpg
       - title: Optimized Delivery Services
         content: >
           Even before COVID, customers were migrating to delivery services.
