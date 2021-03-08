@@ -42,6 +42,7 @@
         "has_social": true,
         "social_links": [],
         "links": [],
-        "type": "footer"
+        "type": "footer",
+        "content": "&copy; 2020 Bhanga Tech"
     }
 }
