@@ -171,6 +171,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/pexels-asa-dugger-1666073.jpg
       - title: Optimized Delivery Services
         content: >
           Even before COVID, customers were migrating to delivery services.
