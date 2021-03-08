@@ -243,7 +243,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Stackbit DIY Theme
+  title: Bhanga Tech - Data Driven Services for the Cannabis Industry
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
