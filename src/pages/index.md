@@ -145,11 +145,14 @@ sections:
         content: >
           Even before COVID, customers were migrating to delivery services.
           Using best-in-industry routing practices, we can automatically
-          optimize the delivery routes. 
+          optimize the delivery routes.
 
 
-          ### Fewer back-and-forth trips means a higher profit margin for your
+          Fewer back-and-forth trips means a higher profit margin for your
           business and a better experience for customers.
+
+
+          ######
         actions: []
         image_alt: lorem-ipsum
         media_position: right
