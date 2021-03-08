@@ -202,13 +202,7 @@ sections:
 
           Free to post listings. Free to apply. No fees or strings. 
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/cannabis_reviews_icon.png
         image_alt: Section item 2 icon
