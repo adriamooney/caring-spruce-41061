@@ -104,13 +104,7 @@ sections:
 
           Bhanga provides immediate recommendations to help your budistas answer
           questions and find the right product for any customer's need.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/cannabis_reviews.png
         image_alt: Feature 1 placeholder image
         media_position: right
