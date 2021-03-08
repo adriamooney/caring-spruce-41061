@@ -70,6 +70,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/recommend_the_right_cannabis.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
