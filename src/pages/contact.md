@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Let's Talk
     subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+      We're ready to dive in to your business process and help you grow! Holler
+      at us so we can chat
     align: center
     padding_top: small
     padding_bottom: small
