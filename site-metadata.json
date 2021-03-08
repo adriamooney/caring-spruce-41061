@@ -22,7 +22,8 @@
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "anncmnt_id": "new-features",
+        "logo": "images/amazing-sunflower.png"
     },
     "title": "Stackbit DIY Theme",
     "domain": "https://caring-spruce-41061.netlify.app"
