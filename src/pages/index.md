@@ -180,13 +180,7 @@ sections:
           There is no cost to join but a valid producer or vendor license is
           required.
         content_align: left
-        actions:
-          - label: Sign up for private access
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/clever-pine.png
         image_alt: Section item 1 icon
