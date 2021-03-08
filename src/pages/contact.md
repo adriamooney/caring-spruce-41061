@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Let's Talk
+    title: Let's chat
     subtitle: >-
       We're ready to dive in to your business process and help you grow! Holler
       at us so we can chat
