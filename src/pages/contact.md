@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Let's chat
     subtitle: >-
-      We're ready to dive in to your business process and help you grow! Holler
-      at us so we can chat
+      We're ready to dive in to your business process and help you grow! Let's
+      see what we can do together.
     align: center
     padding_top: small
     padding_bottom: small
