@@ -246,7 +246,7 @@ sections:
       business.
     actions:
       - label: Let's Talk
-        url: /features
+        url: /contact
         style: secondary
     actions_position: right
     actions_width: fourty
