@@ -162,7 +162,7 @@ sections:
           business and a better experience for customers.
         actions: []
         image_alt: lorem-ipsum
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         type: feature
