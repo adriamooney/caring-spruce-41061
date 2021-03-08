@@ -8,7 +8,7 @@ sections:
       with the infrastructure tools the industry deserves. 
     actions:
       - label: Learn More
-        url: /features
+        url: /contact
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left
