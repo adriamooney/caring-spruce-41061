@@ -156,6 +156,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/better_cannabis_delivery.png
     feature_padding_vert: large
     align: center
     background_color: secondary
