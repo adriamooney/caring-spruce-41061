@@ -166,6 +166,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/cannabis_inventory_forecasting.png
     feature_padding_vert: large
     align: center
     background_color: secondary
