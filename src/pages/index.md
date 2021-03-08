@@ -150,9 +150,6 @@ sections:
 
           Fewer back-and-forth trips means a higher profit margin for your
           business and a better experience for customers.
-
-
-          ######
         actions: []
         image_alt: lorem-ipsum
         media_position: right
