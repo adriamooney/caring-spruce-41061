@@ -243,7 +243,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Bhanga Tech - Infrastructure Tools for Stores and Growers
+  title: Bhanga Tech - Data Services for Cannabis Stores and Growers
   description: Data Driven Services and for the Cannabis Industry
   extra:
     - name: 'og:type'
