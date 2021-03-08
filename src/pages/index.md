@@ -188,7 +188,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/cannabis_network_icon.png
+        image: images/clever-pine.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
