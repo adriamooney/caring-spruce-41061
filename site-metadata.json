@@ -26,5 +26,6 @@
         "logo": "images/amazing-sunflower.png"
     },
     "title": "Stackbit DIY Theme",
-    "domain": "https://caring-spruce-41061.netlify.app"
+    "domain": "https://caring-spruce-41061.netlify.app",
+    "favicon": "images/favicon-32x32.png"
 }
