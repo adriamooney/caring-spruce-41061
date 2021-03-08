@@ -27,21 +27,5 @@
     },
     "title": "Bhanga Tech - Data Driven Services for Cannabis Industry",
     "domain": "https://bhangatech.com",
-    "favicon": "images/favicon-32x32.png",
-    "footer": {
-        "logo_alt": "lorem-ipsum",
-        "has_primary_nav": true,
-        "primary_nav_title": "lorem-ipsum",
-        "primary_nav_links": [],
-        "has_secondary_nav": true,
-        "secondary_nav_title": "lorem-ipsum",
-        "secondary_nav_links": [],
-        "has_tertiary_nav": true,
-        "tertiary_nav_title": "lorem-ipsum",
-        "tertiary_nav_links": [],
-        "has_social": true,
-        "social_links": [],
-        "links": [],
-        "type": "footer"
-    }
+    "favicon": "images/favicon-32x32.png"
 }
