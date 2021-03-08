@@ -10,7 +10,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/pexels-luriko-yamaguchi-4985297.jpg
+    image: images/bhanga_tech_happy_cannabis_customer.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
