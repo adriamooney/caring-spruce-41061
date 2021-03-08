@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: primary
     title: Give your customers exactly what they want
-    image: images/panoramic-eggplant.png
+    image: images/happy_cannabis_customer.png
   - title: Tools for a Blossoming Industry
     subtitle: Get the most of out of your inventory
     actions: []
