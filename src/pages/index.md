@@ -221,13 +221,7 @@ sections:
           to the population, education, household earnings and age. Save hours
           of research by seeing the opportunities in the market.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Section item 3 icon
         image_position: top
