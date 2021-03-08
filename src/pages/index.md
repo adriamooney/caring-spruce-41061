@@ -162,7 +162,7 @@ sections:
         content: "Products sell at different cadences. Understanding this is the difference between a profit and a loss.\n\nBy analyzing purchase behavior on a product level, you will have a better control on inventory expenditures.\_***This makes room for trying new products and freeing up capital without risking the customer experience.***\n\nNo engineers or special skills required.\n\nUpload your POS records and our software makes a comprehensive analysis of all product purchases, providing concrete guidance you can rely on.\n"
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
