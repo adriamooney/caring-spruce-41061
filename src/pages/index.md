@@ -28,7 +28,7 @@ sections:
         content_align: left
         actions:
           - label: Learn How
-            url: '#'
+            url: /contact
             style: primary
             has_icon: false
             icon: arrow-right
