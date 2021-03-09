@@ -52,7 +52,6 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/metrc_logo.png
       - title: Business Growth Insights
         subtitle: For Cannapreneurs
         title_align: left
