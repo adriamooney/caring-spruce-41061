@@ -52,7 +52,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Research
-        subtitle: lorem-ipsum
+        subtitle: For business owners
         title_align: left
         content: >-
           ## Lorem ipsum
