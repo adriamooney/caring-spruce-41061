@@ -99,7 +99,7 @@ sections:
       entrepreneurs find new opportunities and serve their customers smarter. 
       We love solving problems!  Let's see what we can do together.
     actions:
-      - label: lorem-ipsum
+      - label: Let's Talk
         url: /contact
         style: link
         has_icon: false
