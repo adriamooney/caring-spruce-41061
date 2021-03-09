@@ -55,7 +55,7 @@ sections:
         image: images/adorable-eucalyptus.png
       - title: Business Growth Insights
         subtitle: For Cannapreneurs
-        title_align: left
+        title_align: center
         content: >
           With our proprietary map, you can examine the density of dispensaries
           to the population, education, household earnings and age. Save hours
