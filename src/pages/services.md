@@ -7,17 +7,22 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Integrated Insight
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Upload your POS records and our software makes a comprehensive
+          analysis of all product purchases, providing concrete guidance you can
+          rely on.
 
 
-          - Lorem ipsum
+          *   Integrated Product Recommendations Engine
 
-          - dolor sit amet
+          *   Enabled Loyalty Program
+
+          *   Intelligent Inventory Forecasting
+
+          *   Optimized Delivery Services
         content_align: left
         actions: []
         actions_align: left
