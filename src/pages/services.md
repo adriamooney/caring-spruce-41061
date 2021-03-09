@@ -16,7 +16,7 @@ sections:
           rely on.
 
 
-          *   Integrated Product Recommendations Engine
+          *   Product Recommendations Engine
 
           *   Enabled Loyalty Program
 
