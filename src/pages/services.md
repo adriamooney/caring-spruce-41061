@@ -31,7 +31,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Metrc Insights
-        subtitle: lorem-ipsum
+        subtitle: For Growers
         title_align: left
         content: |+
           UID, Metrc and CTS 
