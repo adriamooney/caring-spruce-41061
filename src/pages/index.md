@@ -51,7 +51,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /contact
+            url: /services
             style: primary
             has_icon: false
             icon: arrow-left
