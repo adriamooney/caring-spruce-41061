@@ -30,6 +30,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/cannabis_dispensary.png
       - title: Metrc Insights
         subtitle: For Growers
         title_align: left
