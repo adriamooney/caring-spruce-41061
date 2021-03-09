@@ -54,17 +54,19 @@ sections:
       - title: Research
         subtitle: For business owners
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          With our proprietary map, you can examine the density of dispensaries
+          to the population, education, household earnings and age. Save hours
+          of research by seeing the opportunities in the market.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Research new locations
 
+          *   Web hosting
 
-          - Lorem ipsum
+          *   POS integrations
 
-          - dolor sit amet
+          *   view OLCC licensed candidate profiles
         content_align: left
         actions: []
         actions_align: left
