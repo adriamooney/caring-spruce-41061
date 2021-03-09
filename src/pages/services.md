@@ -30,7 +30,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Metrc Insights
+      - title: Metrc Itegration
         subtitle: For Growers
         title_align: left
         content: >
