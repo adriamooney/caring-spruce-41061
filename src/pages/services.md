@@ -66,7 +66,7 @@ sections:
 
           *   POS integrations
 
-          *   view OLCC licensed candidate profiles
+          *   View OLCC licensed candidate profiles
         content_align: left
         actions: []
         actions_align: left
