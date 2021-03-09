@@ -98,7 +98,16 @@ sections:
       We are technologists and data scientists committed to helping cannabis
       entrepreneurs find new opportunities and serve their customers smarter. 
       We love solving problems!  Let's see what we can do together.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: bottom
     actions_width: fourty
     align: left
