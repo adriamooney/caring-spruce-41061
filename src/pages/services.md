@@ -8,7 +8,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          #### POS Integrated Insights
+          ### POS Integrated Insights
 
 
           Upload your POS records and our software makes a comprehensive
