@@ -6,10 +6,7 @@ sections:
       Data driven services for the cannabis industry. Cannabis is rapidly
       growing and *highly competitive*. Bhanga Tech empowers stores and growers
       with the infrastructure tools the industry deserves. 
-    actions:
-      - label: Learn More
-        url: /contact
-        style: secondary
+    actions: []
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
