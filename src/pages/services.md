@@ -41,7 +41,7 @@ sections:
           *   Track your yields and distribution
 
           *   Help decide what strains to grow
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
