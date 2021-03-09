@@ -33,11 +33,11 @@ sections:
       - title: Metrc Insights
         subtitle: For Growers
         title_align: left
-        content: |+
-          UID, Metrc and CTS 
+        content: |
+          UID, Metrc and CTS
 
-          *   Track your yields and distribution.
-
+          *   Track your yields and distribution
+          *   Help decide what strains to grow
         content_align: left
         actions: []
         actions_align: left
