@@ -52,7 +52,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Research
-        subtitle: For business owners
+        subtitle: For Cannapreneurs
         title_align: left
         content: >
           With our proprietary map, you can examine the density of dispensaries
