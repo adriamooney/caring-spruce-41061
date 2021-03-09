@@ -100,7 +100,7 @@ sections:
       We love solving problems!  Let's see what we can do together.
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left
