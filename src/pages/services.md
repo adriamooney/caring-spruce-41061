@@ -32,7 +32,7 @@ sections:
         type: grid_item
       - title: Metrc Itegration
         subtitle: For Growers
-        title_align: left
+        title_align: center
         content: >
           Grow smarter with insight from your data. UID, Metrc and CTS
           integration.
