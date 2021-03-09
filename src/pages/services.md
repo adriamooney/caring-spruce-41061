@@ -51,7 +51,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Business Growth Insight
+      - title: Business Growth Insights
         subtitle: For Cannapreneurs
         title_align: left
         content: >
