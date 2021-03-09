@@ -33,10 +33,13 @@ sections:
       - title: Metrc Insights
         subtitle: For Growers
         title_align: left
-        content: |
-          UID, Metrc and CTS
+        content: >
+          Grow smarter with insight from your data. UID, Metrc and CTS
+          integration.
+
 
           *   Track your yields and distribution
+
           *   Help decide what strains to grow
         content_align: left
         actions: []
