@@ -6,7 +6,7 @@ sections:
     grid_items:
       - title: POS Integrated Insights
         subtitle: For Stores
-        title_align: left
+        title_align: center
         content: >
           Upload your POS records and our software makes a comprehensive
           analysis of all product purchases, providing concrete guidance you can
