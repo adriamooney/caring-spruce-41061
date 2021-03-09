@@ -2,7 +2,6 @@
 title: Services
 sections:
   - title: Our Services
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
