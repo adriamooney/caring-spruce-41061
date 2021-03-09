@@ -4,7 +4,7 @@ sections:
   - title: Our Services
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: POS Integrated Insights
         subtitle: lorem-ipsum
         title_align: left
         content: >
