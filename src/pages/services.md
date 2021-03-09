@@ -101,7 +101,7 @@ sections:
     actions:
       - label: Let's Talk
         url: /contact
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
