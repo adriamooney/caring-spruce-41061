@@ -94,17 +94,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: >
+      We are technologists and data scientists committed to helping cannabis
+      entrepreneurs find new opportunities and serve their customers smarter. 
+      We love solving problems!  Let's see what we can do together.
     actions: []
     actions_position: bottom
     actions_width: fourty
