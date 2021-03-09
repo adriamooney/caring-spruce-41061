@@ -5,7 +5,7 @@ sections:
     actions: []
     grid_items:
       - title: POS Integrated Insights
-        subtitle: lorem-ipsum
+        subtitle: For Stores
         title_align: left
         content: >
           Upload your POS records and our software makes a comprehensive
