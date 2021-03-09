@@ -8,9 +8,6 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          ### POS Integrated Insights
-
-
           Upload your POS records and our software makes a comprehensive
           analysis of all product purchases, providing concrete guidance you can
           rely on.
