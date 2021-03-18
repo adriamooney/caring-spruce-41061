@@ -186,11 +186,11 @@ sections:
       - title: Free Jobs Board
         title_align: left
         content: >
-          Whether an experienced trimmer, machine operator or budista is what
-          you need, access our Cannabis-only jobs board. 
+          Whether an experienced trimmer, machine operator or budtenders is what
+          you need, access our Cannabis-only jobs board.
 
 
-          Free to post listings. Free to apply. No fees or strings. 
+          Free to post listings. Free to apply. No fees or strings.
         content_align: left
         actions: []
         actions_align: left
