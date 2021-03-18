@@ -87,20 +87,20 @@ sections:
     features:
       - title: Make Better Recommendations
         content: >
-          Most recommendations are made based on the budista's experience with
+          Most recommendations are made based on the budtender's experience with
           the product. We speak from personal experience: ***this often leaves
           huge gaps in meeting customer expectations.***
 
 
-          Leverage your customers' purchasing habits to make recommendations. 
+          Leverage your customers' purchasing habits to make recommendations.
 
 
           #### No customer should be left wondering if their purchase will meet
           their expectations.
 
 
-          Bhanga provides immediate recommendations to help your budistas answer
-          questions and find the right product for any customer's need.
+          Bhanga provides immediate recommendations to help your budtenders
+          answer questions and find the right product for any customer's need.
         actions: []
         image: images/cannabis_reviews.png
         image_alt: Feature 1 placeholder image
