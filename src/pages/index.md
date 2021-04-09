@@ -3,11 +3,17 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      Cannabis is rapidly growing and *highly competitive*. 
+      ## The Cannabis Industry is exploding.
+
+
+      ### Or is it imploding?
+
+
+      ### **It's both.**
 
 
       Bhanga Tech understands the strains on each license type. Whether you hold
-      a single or multiple licenses, competition is thick and margins fierce. 
+      a single or multiple licenses, competition is thick and margins fierce.
 
 
       We focus on helping business leaders navigate one of the fastest growing,
@@ -15,7 +21,7 @@ sections:
 
 
       Bhanga provides data driven services and consulting for the cannabis
-      industry. 
+      industry.
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
