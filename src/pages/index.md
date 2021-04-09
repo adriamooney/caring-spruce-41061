@@ -1,34 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    content: >
-      ### Or is it imploding?
-
-
-      ### **It's both.**
-
-
-      Bhanga Tech understands the strains on each license type. Whether you hold
-      a single or multiple licenses, competition is thick and margins fierce.
-
-
-      We focus on helping business leaders navigate one of the fastest growing,
-      most regulated industries in the US.
-
-
-      Bhanga provides data driven services and consulting for the cannabis
-      industry.
-    actions: []
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    title: Cannabis is exploding.
-    image: images/happy_cannabis_customer.png
   - title: Tools for a Blossoming Industry
     subtitle: Get the most of out of your inventory
     actions: []
