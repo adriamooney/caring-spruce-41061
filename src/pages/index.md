@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ## The Cannabis Industry is exploding.
+      ### The Cannabis Industry is exploding.
 
 
       ### Or is it imploding?
