@@ -3,9 +3,19 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      Data driven services for the cannabis industry. Cannabis is rapidly
-      growing and *highly competitive*. Bhanga Tech empowers stores and growers
-      with the infrastructure tools the industry deserves. 
+      Cannabis is rapidly growing and *highly competitive*. 
+
+
+      Bhanga Tech understands the strains on each license type. Whether you hold
+      a single or multiple licenses, competition is thick and margins fierce. 
+
+
+      We focus on helping business leaders navigate one of the fastest growing,
+      most regulated industries in the US.
+
+
+      Bhanga provides data driven services and consulting for the cannabis
+      industry. 
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
