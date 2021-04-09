@@ -3,9 +3,14 @@ title: Home
 sections:
   - type: cta_section
     content: >
-      #### In a competitive and ever evolving industry, you need every edge you
-      can get.  We want to help you leverage data and technology to grow your
-      business.
+      # What is the greatest challenge to your business?
+
+
+      ### We are currently speaking with business leaders in US states and
+      territories with legalized cannabis.
+
+
+      ##### **Help us answer this question.**
     actions:
       - label: Let's Talk
         url: /contact
