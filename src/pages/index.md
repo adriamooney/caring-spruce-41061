@@ -27,7 +27,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    title: Give your customers exactly what they want
+    title: Cannabis is exploding.
     image: images/happy_cannabis_customer.png
   - title: Tools for a Blossoming Industry
     subtitle: Get the most of out of your inventory
