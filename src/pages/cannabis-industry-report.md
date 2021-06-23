@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections: []
 seo:
-  title: ''
+  title: 2021 Cannabis Industry Report
   description: ''
   robots: []
   extra: []
