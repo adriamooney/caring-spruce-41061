@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: '2021 '
 seo:
   title: ''
   description: ''
