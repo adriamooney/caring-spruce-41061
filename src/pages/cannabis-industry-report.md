@@ -62,7 +62,6 @@ sections:
     subtitle: Summary of Findings
     features:
       - title: Banking and Financing
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
