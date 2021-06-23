@@ -1,7 +1,7 @@
 ---
 title: 2021 Cannabis Industry Report
 sections:
-  - title: lorem-ipsum
+  - title: From Seed-to-Sale
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
