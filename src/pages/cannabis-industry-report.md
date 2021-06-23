@@ -4,7 +4,7 @@ sections:
   - title: From Seed-to-Sale
     subtitle: Cannabis Regulatory Impacts on Business Operations
     content: >
-      ## Abstract
+      ### Abstract
 
 
       By conducting one-on-one interviews with cannabis industry executives in a
