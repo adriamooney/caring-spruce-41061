@@ -2,7 +2,7 @@
 title: 2021 Cannabis Industry Report
 sections:
   - title: From Seed-to-Sale
-    subtitle: lorem-ipsum
+    subtitle: Cannabis Regulatory Impacts on Business Operations
     content: >-
       ## Lorem ipsum
 
