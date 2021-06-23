@@ -73,7 +73,6 @@ sections:
         align: left
         type: feature
       - title: Brand Differentiation
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
