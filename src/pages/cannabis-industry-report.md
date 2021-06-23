@@ -48,7 +48,16 @@ sections:
       We observe that compliance with state regulations is hampering growth and,
       most importantly, the supply-price efficiencies expected in open free
       markets.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
