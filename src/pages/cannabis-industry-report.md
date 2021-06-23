@@ -72,7 +72,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: Brand Differentiation
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
