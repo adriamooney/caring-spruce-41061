@@ -16,7 +16,7 @@ sections:
       the perspective of industry interviewees, we included interviews with
       state regulators in Washington and Oregon.
     actions:
-      - label: lorem-ipsum
+      - label: Read Full Report
         url: '#'
         style: link
         has_icon: false
