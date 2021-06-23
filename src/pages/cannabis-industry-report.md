@@ -44,10 +44,6 @@ sections:
   - title: >-
       The most salient of issues consistently communicated by business operators
       related to banking and access to commercial financing.
-    subtitle: >-
-      We observe that compliance with state regulations is hampering growth and,
-      most importantly, the supply-price efficiencies expected in open free
-      markets.
     actions:
       - label: Get Full Report
         url: '#'
