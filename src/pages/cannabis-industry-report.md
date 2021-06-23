@@ -61,7 +61,7 @@ sections:
   - title: Top Compliance Impacts to Business Operations
     subtitle: Summary of Findings
     features:
-      - title: lorem-ipsum
+      - title: Banking and Financing
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
