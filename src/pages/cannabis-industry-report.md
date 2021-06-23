@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 2021 Cannabis Industry Report
 sections: []
 seo:
   title: 2021 Cannabis Industry Report
