@@ -59,7 +59,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Top Compliance Impacts to Business Operations
-    subtitle: Summary of
+    subtitle: Summary of Findings
     features: []
     feature_padding_vert: medium
     align: center
