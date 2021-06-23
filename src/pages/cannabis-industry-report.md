@@ -41,7 +41,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
+  - title: >-
+      The most salient of issues consistently communicated by business operators
+      related to banking and access to commercial financing.
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
