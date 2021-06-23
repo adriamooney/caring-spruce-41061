@@ -3,17 +3,18 @@ title: 2021 Cannabis Industry Report
 sections:
   - title: From Seed-to-Sale
     subtitle: Cannabis Regulatory Impacts on Business Operations
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Abstract
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      By conducting one-on-one interviews with cannabis industry executives in a
+      sample of five recreational states, we are able to obtain a qualitative
+      understanding of the consequences of state regulatory compliance on
+      operations and growth. Interviews included the full range of license
+      types, from Producer to Retail, in order to understand the implications of
+      compliance for each stage in the cannabinoid product lifecycle. To balance
+      the perspective of industry interviewees, we included interviews with
+      state regulators in Washington and Oregon.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
