@@ -2,7 +2,9 @@
 title: 2021 Cannabis Industry Report
 seo:
   title: 2021 Cannabis Industry Report
-  description: ''
+  description: >-
+    An in-depth examination of the regulatory and compliance impacts on growth
+    and operations in the cannabis industry. 
   robots: []
   extra: []
   type: stackbit_page_meta
