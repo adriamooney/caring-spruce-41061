@@ -49,7 +49,7 @@ sections:
       most importantly, the supply-price efficiencies expected in open free
       markets.
     actions:
-      - label: 'Read '
+      - label: Get Full Report
         url: '#'
         style: link
         has_icon: false
