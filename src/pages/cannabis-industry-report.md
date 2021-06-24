@@ -117,7 +117,6 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: Research Objectives
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
