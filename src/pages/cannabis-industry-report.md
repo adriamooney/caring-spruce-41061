@@ -68,7 +68,7 @@ sections:
     content: |
       ###### Research Objectives
 
-      Methods
+      *   Methods
 
       ###### Top Compliance Impacts to Business Operations
 
@@ -89,18 +89,20 @@ sections:
       ###### Anticipated Market Developments
 
       *   Banking
-          Interstate Trade
-          Commodities Markets
+      *   Interstate Trade
+      *   Commodities Markets
 
       ###### Concluding Comments
 
-      Market Distortions
-      Future Work
+      *   Market Distortions
+
+      *   Future Work
 
       ###### Related Literature
 
-      Regulators
-      Researchers
+      *   Regulators
+
+      *   Researchers
     actions: []
     actions_position: bottom
     actions_width: fourty
