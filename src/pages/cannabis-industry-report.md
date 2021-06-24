@@ -31,8 +31,7 @@ sections:
 
 
       *   [Banking and
-      Financing](https://bhangatech.com/cannabis-industry-report/#banking-and-financing)
-      *   
+      Financing](https://bhangatech.com/cannabis-industry-report/#banking-and-financing)  
       * [Brand
       Differentiation](https://bhangatech.com/cannabis-industry-report/#brand-differentiation)
 
