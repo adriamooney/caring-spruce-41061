@@ -78,12 +78,13 @@ sections:
 
       *   Regulatory Delay
 
-      <!---->
-
       *   Zoning
-          Product Testing
-          Cannabis Tracking Systems
-          Distribution Trouble
+
+      *   Product Testing
+
+      *   Cannabis Tracking Systems
+
+      *   Distribution Trouble
 
       ###### Anticipated Market Developments
 
