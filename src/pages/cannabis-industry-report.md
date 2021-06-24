@@ -40,13 +40,10 @@ sections:
       Delay](https://bhangatech.com/cannabis-industry-report/#regulatory-delay)
 
       *   [Zoning](https://bhangatech.com/cannabis-industry-report/#zoning)
-
       *   [Product
       Testing](https://bhangatech.com/cannabis-industry-report/#product-testing)
-
       *   [Cannabis Tracking
       Systems](https://bhangatech.com/cannabis-industry-report/#cannabis-tracking-systems)
-
       *   [Distribution
       Trouble](https://bhangatech.com/cannabis-industry-report/#distribution-trouble)
 
