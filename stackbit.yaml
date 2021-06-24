@@ -435,6 +435,8 @@ models:
         label: Title
         description: The title of the page
         required: true
+      - type: string
+        name: page Id
       - type: list
         name: sections
         label: Sections
