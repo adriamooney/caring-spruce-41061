@@ -35,10 +35,12 @@ sections:
 
       *   [Brand
       Differentiation](https://bhangatech.com/cannabis-industry-report/#brand-differentiation)
-      
+
       *   [Regulatory
       Delay](https://bhangatech.com/cannabis-industry-report/#regulatory-delay)
+
       *   [Zoning](https://bhangatech.com/cannabis-industry-report/#zoning)
+      
       *   [Product
       Testing](https://bhangatech.com/cannabis-industry-report/#product-testing)
       *   [Cannabis Tracking
