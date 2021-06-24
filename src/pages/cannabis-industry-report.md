@@ -73,7 +73,6 @@ sections:
       *   [Market
       Distortions](https://bhangatech.com/cannabis-industry-report/#market-distortions)
 
-
       *   [Future
       Work](https://bhangatech.com/cannabis-industry-report/#future-work)
 
