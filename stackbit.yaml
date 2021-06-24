@@ -1059,9 +1059,9 @@ models:
         label: Title
         description: The title of the section
       - type: string
-        name: title
-        label: Title
-        description: The title of the section
+        name: section_id
+        label: Section Id
+        description: The Id of the section
       - type: markdown
         name: content
         label: Content
