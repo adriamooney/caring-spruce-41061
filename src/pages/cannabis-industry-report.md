@@ -65,17 +65,27 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      **Research Objectives**
+      Methods
+      **Top Compliance Impacts to Business Operations
+      **Banking and Financing
+      Brand Differentiation
+      Regulatory Delay
+      Zoning
+      Product Testing
+      Cannabis Tracking Systems
+      Distribution Trouble
+      **Anticipated Market Developments**
+      Banking
+      Interstate Trade
+      Commodities Markets
+      **Concluding Comments**
+      Market Distortions
+      Future Work
+      **Related Literature**
+      Regulators
+      Researchers
     actions: []
     actions_position: bottom
     actions_width: fourty
