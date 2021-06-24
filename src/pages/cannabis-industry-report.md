@@ -65,42 +65,62 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: Table of Contents
-    content: |
+    content: >
       ###### Research Objectives
 
-      *   Methods
+
+      *  
+      [Methods](https://www.bhangatech.com/cannabis-industry-report/#methods)
+
 
       ###### Top Compliance Impacts to Business Operations
 
+
       *   Banking and Financing
+
 
       *   Brand Differentiation
 
+
       *   Regulatory Delay
+
 
       *   Zoning
 
+
       *   Product Testing
+
 
       *   Cannabis Tracking Systems
 
+
       *   Distribution Trouble
+
 
       ###### Anticipated Market Developments
 
+
       *   Banking
+
       *   Interstate Trade
+
       *   Commodities Markets
+
 
       ###### Concluding Comments
 
+
       *   Market Distortions
+
 
       *   Future Work
 
+
       ###### Related Literature
 
+
       *   Regulators
+
 
       *   Researchers
     actions: []
