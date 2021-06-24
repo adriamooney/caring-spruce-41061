@@ -106,7 +106,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
+  - title: Top Compliance Impacts to Business Operations
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
