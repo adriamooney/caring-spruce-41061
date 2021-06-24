@@ -30,53 +30,65 @@ sections:
       ###### Top Compliance Impacts to Business Operations
 
 
-      *   Banking and Financing
+      *   [Banking and
+      Financing](https://bhangatech.com/cannabis-industry-report/#banking-and-financing)
 
 
-      *   Brand Differentiation
+      *   [Brand
+      Differentiation](https://bhangatech.com/cannabis-industry-report/#brand-differentiation)
 
 
-      *   Regulatory Delay
+      *   [Regulatory
+      Delay](https://bhangatech.com/cannabis-industry-report/#regulatory-delay)
 
 
-      *   Zoning
+      *   [Zoning](https://bhangatech.com/cannabis-industry-report/#zoning)
 
 
-      *   Product Testing
+      *   [Product
+      Testing](https://bhangatech.com/cannabis-industry-report/#product-testing)
 
 
-      *   Cannabis Tracking Systems
+      *   [Cannabis Tracking
+      Systems](https://bhangatech.com/cannabis-industry-report/#cannabis-tracking-systems)
 
 
-      *   Distribution Trouble
+      *   [Distribution
+      Trouble](https://bhangatech.com/cannabis-industry-report/#distribution-trouble)
 
 
       ###### Anticipated Market Developments
 
 
-      *   Banking
+      *   [Banking](https://bhangatech.com/cannabis-industry-report/#banking)
 
-      *   Interstate Trade
+      *   [Interstate
+      Trade](https://bhangatech.com/cannabis-industry-report/#interstate-trade)
 
-      *   Commodities Markets
+      *   [Commodities
+      Markets](https://bhangatech.com/cannabis-industry-report/#commodities-markets)
 
 
       ###### Concluding Comments
 
 
-      *   Market Distortions
+      *   [Market
+      Distortions](https://bhangatech.com/cannabis-industry-report/#market-distortions)
 
 
-      *   Future Work
+      *   [Future
+      Work](https://bhangatech.com/cannabis-industry-report/#future-work)
 
 
       ###### Related Literature
 
 
-      *   Regulators
+      *  
+      [Regulators](https://bhangatech.com/cannabis-industry-report/#regulators)
 
 
-      *   Researchers
+      *  
+      [Researchers](https://bhangatech.com/cannabis-industry-report/#researchers)
     actions: []
     actions_position: bottom
     actions_width: fourty
