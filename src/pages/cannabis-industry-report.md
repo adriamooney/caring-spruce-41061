@@ -66,31 +66,36 @@ sections:
     type: features_section
   - title: lorem-ipsum
     content: |
-      **Research Objectives**
+      ###### Research Objectives
+
       Methods
 
+      ###### Top Compliance Impacts to Business Operations 
 
-      **Top Compliance Impacts to Business Operations Banking and Financing
-      **Brand Differentiation
+      Banking and Financing
+      Brand Differentiation
       Regulatory Delay
       Zoning
       Product Testing
       Cannabis Tracking Systems
       Distribution Trouble
 
+      ###### Anticipated Market Developments
 
-      **Anticipated Market Developments**
+
       Banking
       Interstate Trade
       Commodities Markets
 
+      ###### Concluding Comments
 
-      **Concluding Comments**
+
       Market Distortions
       Future Work
 
+      ###### Related Literature
 
-      **Related Literature**
+
       Regulators
       Researchers
     actions: []
