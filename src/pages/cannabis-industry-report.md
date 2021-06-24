@@ -138,7 +138,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Anticipated Market Developments
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
