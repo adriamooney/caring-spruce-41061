@@ -109,6 +109,14 @@
 }
 
 // CTA section
+
+#2021-cannabis-industry-report {
+    section:first-of-type {
+        position:fixed;
+        left:0;
+    }
+}
+
 @include media-breakpoint-up(lg) {
 	.cta__copy,
 	.cta__actions {
