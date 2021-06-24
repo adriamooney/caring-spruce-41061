@@ -73,8 +73,14 @@ sections:
       ###### Top Compliance Impacts to Business Operations
 
       Banking and Financing
+
+
       Brand Differentiation
+
+
       Regulatory Delay
+
+
       Zoning
       Product Testing
       Cannabis Tracking Systems
