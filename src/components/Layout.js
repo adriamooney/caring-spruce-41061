@@ -70,7 +70,7 @@ export default class Body extends React.Component {
                 			<Announcement {...this.props} site={this.props.pageContext.site} />
                 	)}
                 	<Header {...this.props} />
-                	<main id={_.get(this.props, 'pageContext.frontmatter.seo.robots', null)} className="site-content">
+                	<main id={_.get(this.props, 'pageContext.frontmatter.seo.title', null)} className="site-content">
                 		{this.props.children}
                 	</main>
                 	<Footer {...this.props} />
