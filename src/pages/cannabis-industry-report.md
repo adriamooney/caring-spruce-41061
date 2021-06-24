@@ -157,7 +157,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Concluding Comments
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
