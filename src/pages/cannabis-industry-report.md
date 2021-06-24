@@ -79,7 +79,6 @@ sections:
       *  
       [Regulators](https://bhangatech.com/cannabis-industry-report/#regulators)
 
-
       *  
       [Researchers](https://bhangatech.com/cannabis-industry-report/#researchers)
     actions: []
