@@ -438,6 +438,7 @@ models:
       - type: string
         name: page_id
         label: Page Id
+        description: id for page identification
         required: false
       - type: list
         name: sections
