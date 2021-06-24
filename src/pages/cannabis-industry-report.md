@@ -88,9 +88,9 @@ sections:
 
       ###### Anticipated Market Developments
 
-      Banking
-      Interstate Trade
-      Commodities Markets
+      *   Banking
+          Interstate Trade
+          Commodities Markets
 
       ###### Concluding Comments
 
