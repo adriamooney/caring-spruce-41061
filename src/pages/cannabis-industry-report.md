@@ -29,7 +29,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/about-2.jpg
   - title: >-
       The most salient of issues consistently communicated by business operators
       related to banking and access to commercial financing.
