@@ -70,7 +70,7 @@ sections:
 
       Methods
 
-      ###### Top Compliance Impacts to Business Operations 
+      ###### Top Compliance Impacts to Business Operations
 
       Banking and Financing
       Brand Differentiation
@@ -82,19 +82,16 @@ sections:
 
       ###### Anticipated Market Developments
 
-
       Banking
       Interstate Trade
       Commodities Markets
 
       ###### Concluding Comments
 
-
       Market Distortions
       Future Work
 
       ###### Related Literature
-
 
       Regulators
       Researchers
