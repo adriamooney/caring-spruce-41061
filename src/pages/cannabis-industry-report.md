@@ -33,7 +33,6 @@ sections:
       *   [Banking and
       Financing](https://bhangatech.com/cannabis-industry-report/#banking-and-financing)
 
-
       *   [Brand
       Differentiation](https://bhangatech.com/cannabis-industry-report/#brand-differentiation)
 
@@ -41,9 +40,7 @@ sections:
       *   [Regulatory
       Delay](https://bhangatech.com/cannabis-industry-report/#regulatory-delay)
 
-
       *   [Zoning](https://bhangatech.com/cannabis-industry-report/#zoning)
-
 
       *   [Product
       Testing](https://bhangatech.com/cannabis-industry-report/#product-testing)
