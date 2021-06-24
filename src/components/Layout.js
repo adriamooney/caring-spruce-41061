@@ -70,7 +70,7 @@ export default class Body extends React.Component {
                 			<Announcement {...this.props} site={this.props.pageContext.site} />
                 	)}
                 	<Header {...this.props} />
-                	<main id="content" className="site-content">
+                	<main id="pageContext.site.siteMEta" className="site-content">
                 		{this.props.children}
                 	</main>
                 	<Footer {...this.props} />
