@@ -159,7 +159,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Related Literature
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
