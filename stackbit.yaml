@@ -1058,6 +1058,10 @@ models:
         name: title
         label: Title
         description: The title of the section
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
       - type: markdown
         name: content
         label: Content
