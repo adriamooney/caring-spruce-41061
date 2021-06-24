@@ -110,12 +110,12 @@
 
 // CTA section
 
-#2021-cannabis-industry-report {
-    #toc {
-        position:fixed;
-        left:0;
-    }
+
+#toc {
+    position:fixed;
+    left:0;
 }
+
 
 @include media-breakpoint-up(lg) {
 	.cta__copy,
