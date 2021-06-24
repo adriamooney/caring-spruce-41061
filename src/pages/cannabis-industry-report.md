@@ -72,19 +72,18 @@ sections:
 
       ###### Top Compliance Impacts to Business Operations
 
-      Banking and Financing
+      *   Banking and Financing
 
+      *   Brand Differentiation
 
-      Brand Differentiation
+      *   Regulatory Delay
 
+      <!---->
 
-      Regulatory Delay
-
-
-      Zoning
-      Product Testing
-      Cannabis Tracking Systems
-      Distribution Trouble
+      *   Zoning
+          Product Testing
+          Cannabis Tracking Systems
+          Distribution Trouble
 
       ###### Anticipated Market Developments
 
