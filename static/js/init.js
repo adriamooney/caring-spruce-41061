@@ -89,7 +89,8 @@ window.addAnnouncementHandlers = function() {
 };
 
 window.addToTopHandler = function() {
-    const toTop = document.querySelector('#to-top')
+    const toTop = document.querySelector('#to-top');
+    if()
 };
 
 window.removeAnnouncementHandlers = function() {
