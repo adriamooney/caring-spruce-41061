@@ -115,7 +115,7 @@
 }
 
 // CTA section
-
+@include media-breakpoint-down(sm) {
 #toc {
     position:fixed;
     font-size:11px;
@@ -127,6 +127,8 @@
         padding-top:3.33333rem;
         margin-bottom:15px;
     }
+}
+
 }
 
 @include media-breakpoint-up(lg) {
