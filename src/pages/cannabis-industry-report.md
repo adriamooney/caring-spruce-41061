@@ -2,10 +2,10 @@
 title: 2021 Cannabis Industry Report
 sections:
   - content: >
-      #### *From Seed-to-Sale*
+      ## *From Seed-to-Sale*
 
 
-      #### Cannabis Regulatory Impacts on Business Operations
+      ###### Cannabis Regulatory Impacts on Business Operations
 
 
       # Table of Contents
