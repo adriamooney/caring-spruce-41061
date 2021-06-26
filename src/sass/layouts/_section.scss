@@ -19,7 +19,7 @@
 	}
 }
 
-:not(.section#toc) {
+.section:not(#toc) {
     background-color:red !important;
 }
 
