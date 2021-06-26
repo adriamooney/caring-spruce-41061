@@ -90,7 +90,9 @@ window.addAnnouncementHandlers = function() {
 
 window.addToTopHandler = function() {
     const toTop = document.querySelector('#to-top');
-    if()
+    if(toTop) {
+        
+    }
 };
 
 window.removeAnnouncementHandlers = function() {
