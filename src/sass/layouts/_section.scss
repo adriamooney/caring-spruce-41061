@@ -115,7 +115,7 @@
 }
 
 // CTA section
-@include media-breakpoint-down(sm) {
+@include media-breakpoint-up(sm) {
 #toc {
     position:fixed;
     font-size:11px;
