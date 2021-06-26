@@ -88,7 +88,9 @@ window.addAnnouncementHandlers = function() {
 	}
 };
 
-window.add
+window.addToTopHandler = function() {
+    
+};
 
 window.removeAnnouncementHandlers = function() {
 	const anncmnt = document.querySelector('.js-announcement');
