@@ -8,6 +8,9 @@ sections:
       ***Cannabis Regulatory Impacts on Business Operations***
 
 
+      # ***Table of Contents***
+
+
       Research Objectives
 
 
