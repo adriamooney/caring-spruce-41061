@@ -21,12 +21,14 @@
 // }
 
 #to-top {
-    background: green;
+    border: 2px solid #ccc;
     position:fixed;
-    bottom:0;
-    right:0;
+    bottom:40px;
+    right:40px;
     width: 30px;
     height:30px;
+    border-radius: 30px;
+
 
 }
 
