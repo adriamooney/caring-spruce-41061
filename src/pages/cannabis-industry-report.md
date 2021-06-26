@@ -5,7 +5,7 @@ sections:
       #### *From Seed-to-Sale*
 
 
-      #### *Cannabis Regulatory Impacts on Business Operations*
+      ##### *Cannabis Regulatory Impacts on Business Operations*
 
 
       # *Table of Contents*
