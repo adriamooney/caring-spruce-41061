@@ -184,5 +184,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: advanced
-page_id: 2021-cannabis-industry-report
+page_id: cannabis-industry-report-2021
 ---
