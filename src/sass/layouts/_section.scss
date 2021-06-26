@@ -116,7 +116,6 @@
 
 // CTA section
 
-@include media-breakpoint-up(sm) {
 #toc {
     position:fixed;
     font-size:11px;
@@ -129,8 +128,6 @@
         margin-bottom:15px;
     }
 }
-}
-
 
 @include media-breakpoint-up(lg) {
 	.cta__copy,
