@@ -115,6 +115,10 @@
   margin: 0 3px;
 }
 
+#from-seed-to-sale, #cannabis-regulatory-impacts-on-business-operations {
+    display:none;
+}
+
 // CTA section
 @include media-breakpoint-up(sm) {
 #toc {
