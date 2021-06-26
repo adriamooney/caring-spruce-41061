@@ -1,8 +1,7 @@
 ---
 title: 2021 Cannabis Industry Report
 sections:
-  - title: Table of Contents
-    content: >
+  - content: >
       ###### Research Objectives
 
 
