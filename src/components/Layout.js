@@ -72,7 +72,7 @@ export default class Body extends React.Component {
                 	<Header {...this.props} />
                 	<main id={_.get(this.props, 'pageContext.frontmatter.page_id', null)} className="site-content">
                 		{this.props.children}
-                        <div id="to-top">&#8679;</div>
+                        <a id="to-top" href="">&#8679;</a>
                 	</main>
                 	<Footer {...this.props} />
                 </div>
