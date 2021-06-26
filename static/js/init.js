@@ -88,7 +88,8 @@ window.addAnnouncementHandlers = function() {
 	}
 };
 
-window.scrollToTop = function() {
+window.scrollToTop = function(e) {
+    e.preventDefault();
     window.scroll({
         top: 0, 
         left: 0, 
@@ -97,8 +98,7 @@ window.scrollToTop = function() {
 
 };
 
-window.addToTopHandler = function(e) {
-    e.preventDefault();
+window.addToTopHandler = function() {
     const toTop = document.querySelector('#to-top');
     if(toTop) {
         toTop.addEventListener('click', scrollToTop, false);
