@@ -19,7 +19,7 @@
 	}
 }
 
-ul:not(:first-child) {
+.site-content:not(:first-child) {
     background-color:red !important;
 }
 
