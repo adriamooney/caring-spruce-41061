@@ -20,7 +20,15 @@
 //     }
 // }
 
-#2021-cannabis-industry-report to-top
+#2021-cannabis-industry-report #to-top {
+    background: green;
+    position:fixed;
+    bottom:0;
+    right:0;
+    width: 30px;
+    right:30px;
+    
+}
 
 .layout-boxed {
 	background-color: $color-boxed-bg;
