@@ -19,7 +19,7 @@
 	}
 }
 
-.section :not(#toc) {
+.section :not(:first-child) {
     left:300px;
 }
 
