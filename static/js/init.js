@@ -89,8 +89,7 @@ window.addAnnouncementHandlers = function() {
 };
 
 window.addToTopHandler = function() {
-    const toTop = document.querySelector('#to-top');
-    if(toTop) {
+
         window.scroll({
             top: 0, 
             left: 0, 
