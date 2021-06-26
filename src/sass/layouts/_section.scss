@@ -19,7 +19,7 @@
 	}
 }
 @include media-breakpoint-up(sm) {
-    .section:not(:nth-child(2)) {  
+    .section:not(:first-child) {  
     width:70%;
     position:relative;
     right:-30%;
