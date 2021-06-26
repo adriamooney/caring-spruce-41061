@@ -88,7 +88,7 @@ window.addAnnouncementHandlers = function() {
 	}
 };
 
-window.addToTopHandler = function() {
+window.scrollToTop = function() {
     window.scroll({
         top: 0, 
         left: 0, 
