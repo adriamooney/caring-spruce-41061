@@ -102,7 +102,7 @@ window.addToTopHandler = function() {
 };
 
 window.addToTopHandler = function() {
-    toTop.addEventListener('click', announcementCloseHandler, false);
+    toTop.addEventListener('click', addToTopHandler, false);
     }
 };
 
