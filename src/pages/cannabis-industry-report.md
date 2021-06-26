@@ -2,7 +2,12 @@
 title: 2021 Cannabis Industry Report
 sections:
   - content: >
-      ###### Research Objectives
+      # From Seed-to-Sale
+
+
+
+
+      Research Objectives
 
 
       *  
@@ -13,7 +18,7 @@ sections:
 
 
       *   [Banking and
-      Financing](https://bhangatech.com/cannabis-industry-report/#banking-and-financing)  
+      Financing](https://bhangatech.com/cannabis-industry-report/#banking-and-financing)
 
       *   [Brand
       Differentiation](https://bhangatech.com/cannabis-industry-report/#brand-differentiation)
