@@ -97,7 +97,8 @@ window.scrollToTop = function() {
 
 };
 
-window.addToTopHandler = function() {
+window.addToTopHandler = function(e) {
+    e.preventDefault();
     const toTop = document.querySelector('#to-top');
     if(toTop) {
         toTop.addEventListener('click', scrollToTop, false);
