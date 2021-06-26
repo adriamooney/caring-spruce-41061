@@ -33,6 +33,10 @@
 
 }
 
+#to-top:after {
+    content: ' \02C4';
+}
+
 .layout-boxed {
 	background-color: $color-boxed-bg;
 
