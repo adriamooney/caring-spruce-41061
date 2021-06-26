@@ -96,6 +96,8 @@ window.addToTopHandler = function() {
             left: 0, 
             behavior: 'smooth'
         });
+
+        anncmntClose.addEventListener('click', announcementCloseHandler, false);
     }
 };
 
