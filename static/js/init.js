@@ -100,7 +100,7 @@ window.scrollToTop = function() {
 window.addToTopHandler = function() {
     const toTop = document.querySelector('#to-top');
     if(toTop) {
-        toTop.addEventListener('click', addToTopHandler, false);
+        toTop.addEventListener('click', scrollToTop, false);
     }
 };
 
