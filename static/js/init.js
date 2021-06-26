@@ -89,8 +89,7 @@ window.addAnnouncementHandlers = function() {
 };
 
 window.addToTopHandler = function() {
-    const toTop = document.querySelector('#to-top');
-    if(toTop) {
+    
         window.scroll({
             top: 0, 
             left: 0, 
@@ -101,7 +100,10 @@ window.addToTopHandler = function() {
 };
 
 window.addToTopHandler = function() {
-    toTop.addEventListener('click', addToTopHandler, false);
+    const toTop = document.querySelector('#to-top');
+    if(toTop) {
+        toTop.addEventListener('click', addToTopHandler, false);
+    }
     }
 };
 
