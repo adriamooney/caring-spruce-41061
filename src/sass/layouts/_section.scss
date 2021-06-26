@@ -18,11 +18,12 @@
 		background: none;
 	}
 }
-
+@include media-breakpoint-up(sm) {
 .section:not(:first-child) {
    width:70%;
    position:relative;
    right:-30%;
+}
 }
 
 .hero__media,
