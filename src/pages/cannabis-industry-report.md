@@ -187,7 +187,7 @@ sections:
     content: >
       This report would not be possible were it not for the time graciously
       provided by the participants. It is deeply appreciated.  The following
-      business leaders not only provided that time but also extending on-going
+      business leaders not only provided that time but also extended on-going
       guidance and introductions to industry participants which materially
       accelerated the nationwide nature of this research.  A final recognition
       is due to the regulator boards in Washington and Oregon for agreeing to
