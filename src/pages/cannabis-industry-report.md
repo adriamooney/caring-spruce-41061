@@ -184,17 +184,57 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Special Thanks
-    content: >-
-      ## Lorem ipsum
+    content: >
+      This report would not be possible were it not for the time graciously
+      provided by the participants. It is deeply appreciated.  The following
+      business leaders not only provided that time but also extending on-going
+      guidance and introductions to industry participants which materially
+      accelerated the nationwide nature of this research.  A final recognition
+      is due to the regulator boards in Washington and Oregon for agreeing to
+      balance our industry interviews with their perspectives.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Adam Spiker with [Southern California
+      Coalition](https://southerncaliforniacoalition.com) and [Spiker
+      Rendon](https://spikerrendon.com/adam)
 
 
-      - Lorem ipsum
+      *   Blaze with [Western Bud](https://www.westernbud.com)
 
-      - dolor sit amet
+
+      *   Brian Smith with [Washington State Liquor and Cannabis
+      Board](https://lcb.wa.gov)
+
+
+      *   Ford Pearson with [Green Rush](https://green-rush.us)
+
+
+      *   Jared Penman with [RiNo Supply Company](https://www.rinosupply.com/)
+
+
+      *   Laurie Wolf with [Laurie +
+      MaryJane](https://www.laurieandmaryjane.com)
+
+
+      *   Noah Persin with [GreenSea
+      Distribution](https://www.greenseadistribution.com)
+
+
+      *   Mary Schultz with [The Dub](https://www.dubpdx.com)
+
+
+      *   Sean Beeman with [Gensis Pharms](https://www.genesispharms.com/)
+
+
+      *   Steve Penman with [Surgar Tree Farm](https://www.sugartreefarm.com/)
+
+
+      *   TJ Sheehy with [Oregon Liquor Control
+      Commission](https://www.oregon.gov/olcc)
+
+
+      *   Todd Sullivan with [Cannapreneur
+      Partners](https://cannapreneurpartners.com/)
     actions: []
     image_alt: lorem-ipsum
     media_position: top
