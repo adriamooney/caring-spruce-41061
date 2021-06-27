@@ -184,7 +184,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Special Thanks
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
